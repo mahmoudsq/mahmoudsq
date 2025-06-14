@@ -7,7 +7,7 @@
 - 💡 Core skills: **RESTful APIs, Clean Architecture, Entity Framework Core, Redis, SQL Server**
 - 💬 Ask me about **ASP.NET Core, C#, backend architecture, or system optimization**
 - 📫 How to reach me: **ma7mouda7med1995@gmail.com** | **01144300822**
-- 📄 [View my full CV](#) | [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-ahmed-b6018b150)
+- 📄 [View my full CV](#https://drive.google.com/file/d/1Xjy8R_g6sbLTGD4DK6fWY8VBTX-z7qOH/view?usp=drive_link) | [LinkedIn Profile](https://www.linkedin.com/in/mahmoud-ahmed-b6018b150)
 
 <h3 align="left">Professional Highlights:</h3>
 
